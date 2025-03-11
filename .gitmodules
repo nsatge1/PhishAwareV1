@@ -1,0 +1,6 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/nsatge1/phishaware.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/demhA01/PhishAware.git
