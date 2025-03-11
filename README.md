@@ -7,14 +7,14 @@ Ce dépôt contient le code source pour l'application PhishAware, un projet comp
 ## Structure du Monorepo
 
 - `frontend/` : Le projet frontend (React Native)
-- `backend/` : Le projet backend (Node.js, Express, MySQL)
+- `backend/` : Le projet backend
 
 ## Cloner le Monorepo
 
 Pour cloner ce monorepo et ses sous-modules, utilisez la commande suivante :
 
 ```bash
-git clone --recursive https://github.com/tonutilisateur/tonmonorepo.git
+git clone --recursive https://github.com/nsatge1/PhishAwareV1.git
 ```
 ## Accéder aux projets
 
