@@ -6,7 +6,7 @@ Ce dépôt contient le code source pour l'application PhishAware, un projet comp
 
 ## Structure du Monorepo
 
-- `frontend/` : Le projet frontend (React Native)
+- `Frontend/` : Le projet frontend (React Native)
 - `backend/` : Le projet backend
 
 ## Cloner le Monorepo
