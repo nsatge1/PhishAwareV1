@@ -15,7 +15,7 @@ Pour cloner ce monorepo et ses sous-modules, utilisez la commande suivante :
 
 ```bash
 git clone --recursive https://github.com/tonutilisateur/tonmonorepo.git
-
+```
 ## Accéder aux projets
 
 Une fois le dépôt cloné, vous trouverez deux dossiers principaux : frontend et backend. Chaque projet a son propre fichier README qui explique comment l’installer et le configurer.
